@@ -35,11 +35,16 @@ I'm Tika Ram Khojwar, a front-end developer currently studying for a Master's de
 
 <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=khojwar&show_icons=true&theme=radical" />
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khojwar&layout=compact" />
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khojwar&layout=compact" />
 
 
 
-#### Snake eating my contributioin 
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+#### 🐍 Snake eating my contributioin graph
+
 ![snake gif](https://github.com/khojwar/khojwar/blob/output/github-contribution-grid-snake.gif)
 
 
