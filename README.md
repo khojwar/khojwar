@@ -39,6 +39,9 @@ I'm Tika Ram Khojwar, a front-end developer currently studying for a Master's de
 
 
 
+#### Snake eating my contributioin 
+![snake gif](https://github.com/khojwar/khojwar/blob/output/github-contribution-grid-snake.gif)
+
 
 
 <!--
