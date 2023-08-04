@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tika Ram Khojwar, a front-end developer currently studying for a Master's degree in Computer Information Systems (MCIS) at Nepal College of Information Technology (NCIT) in Kathmandu which is affiliated with Pokhara University.
+I'm Tika Ram Khojwar, a front-end developer currently studying for a Master's degree in Computer Information Systems (MCIS) at Nepal College of Information Technology (NCIT) in Kathmandu which is affiliated with Pokhara University. I have also good knowledge of ML/DL architectures, libraries and frameworks. I am currently working in NLP using DL as a college thesis.
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Reactjs, Nextjs
