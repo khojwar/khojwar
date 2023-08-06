@@ -4,7 +4,7 @@ I'm Tika Ram Khojwar, a front-end developer currently studying for a Master's de
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Reactjs, Nextjs
-- 💬 Ask me about anything related to Javascript/Typescript/Python/React
+- 💬 Ask me about anything related to Javascript/Reactjs/Python/AI/ML/DL
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
