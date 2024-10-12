@@ -68,7 +68,7 @@
 
 #### 🐍 Snake eating my contributioin graph
 
-![snake gif](https://github.com/khojwar/khojwar/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/khojwar/khojwar135711/blob/output/github-contribution-grid-snake.gif)
 
 
 
