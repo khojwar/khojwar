@@ -1,11 +1,12 @@
-### Hi there 👋
+# Hello and Welcome 👋, I'm Tika Ram Khojwar
 
-I'm Tika Ram Khojwar, a front-end developer currently studying for a Master's degree in Computer Information Systems (MCIS) at Nepal College of Information Technology (NCIT) in Kathmandu which is affiliated with Pokhara University. I have also good knowledge of ML/DL architectures, libraries and frameworks. I am currently working in NLP using DL as a college thesis.
+## I'm a Developer and Instructor
 
-- 🔭 I’m currently working on Master Thesis "Nepali Text Part of Speech Tagging using Different Deep Learning Algorithms" 😉
-- 🌱 I’m currently learning Reactjs, Tensorflow
-- 💬 Ask me about anything related to Javascript/Reactjs/Python/AI/ML/DL
-
+- 👨‍🏫 I enjoy teaching coding skills as well as helping students & fellow developers
+- 🌱 I’m currently learning Nextjs
+- 💬 Ask me about anything related to Php/Laravel/Javascript/Reactjs/Nextjs/Python/AI/ML/DL
+- 🏆 Goal: Be the person I needed when I was younger
+- ⚡ Motto: Keep striving for progress, not perfection
 
 ---------------------------------------------------------------------------------------------------------------------------------
 #### Web development tools I know:
@@ -53,7 +54,7 @@ I'm Tika Ram Khojwar, a front-end developer currently studying for a Master's de
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-
+📈 GitHub Stats
 
 <img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=khojwar&show_icons=true&theme=radical" />
 
@@ -68,6 +69,8 @@ I'm Tika Ram Khojwar, a front-end developer currently studying for a Master's de
 #### 🐍 Snake eating my contributioin graph
 
 ![snake gif](https://github.com/khojwar/khojwar/blob/output/github-contribution-grid-snake.gif)
+
+
 
 
 
